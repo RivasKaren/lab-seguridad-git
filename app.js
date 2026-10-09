@@ -1,3 +1,3 @@
 // app.js
-const API_KEY = "ghp_EXAMPLEKEY1234567890abcdefghijklmnopqrstuvwxyz";
-console.log("Aplicación iniciada...");
+const API_KEY = "ghp_1234567890abcdefghijklmnopqrstuvwxyz1234";
+console.log("Aplicacion iniciada...");
